@@ -154,7 +154,7 @@
             seconds,
             cd = document.querySelectorAll(elt);
 
-        targetTmpDate = new Date(2025, 9, 24, 0, 0, 0);
+        targetTmpDate = new Date(2025, 9, 23, 23, 45, 0);
 
         // console.log("Target temp date: ", targetTmpDate);
 
